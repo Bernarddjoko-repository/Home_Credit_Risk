@@ -55,7 +55,7 @@ Recall (To avoid missing risky borrowers)<br>
 F1-Score (Balance between Precision & Recall)<br>
 ### 📊 Results: Model Performance Comparison
 
-####🔹 Logistic Regression:<br>
+#### 🔹Logistic Regression:<br>
 Accuracy: 79.04%<br>
 Precision: 51.17%<br>
 Recall: 77.52% (Highest Recall)<br>
